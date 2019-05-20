@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="NewSuite" duration-ms="60571" started-at="2019-05-20T19:11:16Z" finished-at="2019-05-20T19:12:17Z">
+    <groups>
+    </groups>
+    <test name="BrowserTest" duration-ms="60571" started-at="2019-05-20T19:11:16Z" finished-at="2019-05-20T19:12:17Z">
+      <class name="rahuldasandvicky.HelloProject.ExecuteLeadTest">
+        <test-method status="PASS" signature="verifyPageTitle(java.lang.String)[pri:0, instance:rahuldasandvicky.HelloProject.ExecuteLeadTest@4c70fda8]" name="verifyPageTitle" duration-ms="60502" started-at="2019-05-20T19:11:16Z" finished-at="2019-05-20T19:12:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitle -->
+      </class> <!-- rahuldasandvicky.HelloProject.ExecuteLeadTest -->
+    </test> <!-- BrowserTest -->
+  </suite> <!-- NewSuite -->
+</testng-results>
